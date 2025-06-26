@@ -87,7 +87,7 @@ Exploratory data analysis project on Netflix content dataset with insights into 
 ### Specializations
 - **Machine Learning & AI**: Deep Learning, Neural Networks, Graph Neural Networks, Computer Vision, NLP
 - **Data Visualization** : Pandas, Matplotlib, Seaborn
-- **Web Development* : React, HTML, CSS, Javascript
+- **Web Development** : React, HTML, CSS, Javascript
 
 ---
 
