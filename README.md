@@ -67,12 +67,6 @@ Exploratory data analysis project on Netflix content dataset with insights into 
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Blockchain & Cryptocurrency
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-![Truffle](https://img.shields.io/badge/-Truffle-5E464D?style=flat-square&logo=truffle&logoColor=white)
-![MetaMask]([https://img.shields.io/badge/-MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white](https://www.okoone.com/wp-content/uploads/2024/06/firebase-logo.png))
-
 ### Development Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
