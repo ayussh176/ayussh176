@@ -3,7 +3,6 @@
 🎓 **About Me**  
 🏫 B.Tech CSE 3rd Year Student at Shri Ramdeobaba College of Engineering and Management, Nagpur  
 📊 CGPA: 8.25/10  
-🌍 Based in India  
 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/ayush-malik-b864432b2/)  
 🌐 [Check out my Portfolio](https://ayush-portfolio176.netlify.app/)
 
