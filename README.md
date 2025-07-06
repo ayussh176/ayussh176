@@ -7,7 +7,7 @@
 🌐 [Check out my Portfolio](https://ayush-portfolio176.netlify.app/)
 
 🔍 **Passionate About**  
-Artificial Intelligence, Web Development, and DevOps. I’m enthusiastic about building real-world impactful applications and always looking to learn new technologies and collaborate with like-minded developers.
+Artificial Intelligence, Web Development. I’m enthusiastic about building real-world impactful applications and always looking to learn new technologies and collaborate with like-minded developers.
 
 ---
 
