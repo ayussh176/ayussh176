@@ -18,13 +18,13 @@ I’m actively building projects that combine the power of machine learning, dee
 
 🛠️ **Featured Projects**
 
-📁 [**PatientKhata**](https://github.com/ayussh176/PatientKhata)  
+📁 [**PatientKhata**](https://github.com/ayussh176/PatientKhata.git)  
 A medical record management app for doctors and clinics to maintain patient data efficiently using Firebase and React.
 
-🌾 [**KissanKhata**](https://github.com/ayussh176/KissanKhata)  
+🌾 [**KissanKhata**](https://github.com/ayussh176/KissanKhata.git)  
 A farmer-focused app for managing product stock, schemes, sales, and collections with role-based dashboards using Firebase.
 
-🏠 [**Bangalore Home Price Prediction**](https://github.com/ayussh176/Bangalore-Home-Price-Prediction)  
+🏠 [**Bangalore Home Price Prediction**](https://github.com/ayussh176/house-price-prediction.git)  
 ML model to predict real estate prices in Bangalore using Python, Pandas, and Linear Regression.
 
 🎬 [**Netflix Data Exploratory Analysis**](https://github.com/ayussh176/Netflix_data_analysis.git)  
