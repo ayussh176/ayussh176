@@ -27,7 +27,7 @@ A farmer-focused app for managing product stock, schemes, sales, and collections
 🏠 [**Bangalore Home Price Prediction**](https://github.com/ayussh176/Bangalore-Home-Price-Prediction)  
 ML model to predict real estate prices in Bangalore using Python, Pandas, and Linear Regression.
 
-🎬 [**Netflix Data Exploratory Analysis**](https://github.com/ayussh176/Netflix-Data-Exploratory-Analysis)  
+🎬 [**Netflix Data Exploratory Analysis**](https://github.com/ayussh176/Netflix_data_analysis.git)  
 Exploratory data analysis project on Netflix content dataset with insights into content trends using Pandas and Matplotlib.
 
 ---
